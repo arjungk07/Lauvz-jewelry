@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div>
-      < header id='home'>
+      < header id=' home'>
         <Header />
       </header>
       <main>
