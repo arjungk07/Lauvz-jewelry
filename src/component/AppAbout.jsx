@@ -22,7 +22,7 @@ function AppAbout() {
           </Col>
           <Col sm={6}>
             <div className="title-holder">
-              <h3>About Us Info</h3>
+              <h2>About Us Info</h2>
               <p>Lav Jewelry is more than just a jewelry brand — it’s a celebration of elegance, craftsmanship, and individuality. Rooted in the rich cultural heritage of India and inspired by contemporary fashion, we create timeless pieces that resonate with every woman’s unique journey.</p>
               <Button variant="danger" size="lg" >
                 Click Here to Contact Us

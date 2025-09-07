@@ -5,13 +5,14 @@ import Header from './component/Header';
 import AppHero from './component/AppHero';
 import AppAbout from './component/AppAbout';
 import AppContact from './component/Contact';
+import AppFooter from './component/footer';
 
 
 function App() {
 
   return (
     <div>
-      <header>
+      < header id='home'>
         <Header />
       </header>
       <main>
@@ -19,6 +20,9 @@ function App() {
         <AppAbout />
         <AppContact />
       </main>
+      <footer id='footer'>
+        <AppFooter/>
+      </footer>
     </div>
   )
 }
